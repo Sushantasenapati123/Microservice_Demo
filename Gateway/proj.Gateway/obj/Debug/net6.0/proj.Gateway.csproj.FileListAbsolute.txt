@@ -1,0 +1,84 @@
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\appsettings.Development.json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\appsettings.json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Ocelot.Json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.exe
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.deps.json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.runtimeconfig.json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.pdb
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\FluentValidation.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\IPAddressRange.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Ocelot.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.csproj.AssemblyReference.cache
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.AssemblyInfoInputs.cache
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.AssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.csproj.CoreCompileInputs.cache
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.MvcApplicationPartsAssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.MvcApplicationPartsAssemblyInfo.cache
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets.build.json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets.development.json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.proj.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.proj.Gateway.props
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proj.Gateway.props
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proj.Gateway.props
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\scopedcss\bundle\proj.Gateway.styles.css
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.csproj.CopyComplete
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\refint\proj.Gateway.dll
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.pdb
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.genruntimeconfig.cache
+D:\TEst\Test Repo\New folder (32)\Gateway\proj.Gateway\obj\Debug\net6.0\ref\proj.Gateway.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\appsettings.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Ocelot.Json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.exe
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.deps.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\proj.Gateway.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.proj.Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.build.proj.Gateway.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proj.Gateway.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proj.Gateway.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\scopedcss\bundle\proj.Gateway.styles.css
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\refint\proj.Gateway.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\proj.Gateway.genruntimeconfig.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Gateway\proj.Gateway\obj\Debug\net6.0\ref\proj.Gateway.dll

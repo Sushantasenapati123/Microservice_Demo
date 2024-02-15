@@ -1,0 +1,26 @@
+[
+  {
+    "TableName": "Bothh"
+  },
+  {
+    "TableName": "City"
+  },
+  {
+    "TableName": "CityDataType"
+  },
+  {
+    "TableName": "Company"
+  },
+  {
+    "TableName": "M_POR_USER"
+  },
+  {
+    "TableName": "No_PK_Identiyty"
+  },
+  {
+    "TableName": "NonIdentTbl"
+  },
+  {
+    "TableName": "Primaryy"
+  }
+]

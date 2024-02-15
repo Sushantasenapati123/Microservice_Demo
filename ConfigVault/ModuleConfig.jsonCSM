@@ -1,0 +1,23 @@
+[
+  {
+    "PageName": "Bothh",
+    "ModuleName": "tbl",
+    "StoreProcedureName": "USP_Bothh_Copy_2",
+    "Actions": "I/V",
+    "PageType": "Bothh/ViewBothh"
+  },
+  {
+    "PageName": "City",
+    "ModuleName": "tbl",
+    "StoreProcedureName": "USP_City_Copy_4",
+    "Actions": "I/V",
+    "PageType": "City/ViewCity"
+  },
+  {
+    "PageName": "Company",
+    "ModuleName": "sp",
+    "StoreProcedureName": "USP_Company",
+    "Actions": "I/V",
+    "PageType": "Company/ViewCompany"
+  }
+]

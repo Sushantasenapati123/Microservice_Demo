@@ -1,0 +1,22 @@
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\bin\Debug\net6.0\proj.Model.deps.json
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\bin\Debug\net6.0\proj.Model.dll
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\bin\Debug\net6.0\proj.Model.pdb
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\proj.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\proj.Model.AssemblyInfoInputs.cache
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\proj.Model.AssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\proj.Model.csproj.CoreCompileInputs.cache
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\proj.Model.dll
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\refint\proj.Model.dll
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\proj.Model.pdb
+D:\TEst\Test Repo\New folder (32)\Common\proj.Model\obj\Debug\net6.0\ref\proj.Model.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\bin\Debug\net6.0\proj.Model.deps.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\bin\Debug\net6.0\proj.Model.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\bin\Debug\net6.0\proj.Model.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\proj.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\proj.Model.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\proj.Model.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\proj.Model.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\proj.Model.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\refint\proj.Model.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\proj.Model.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Common\proj.Model\obj\Debug\net6.0\ref\proj.Model.dll

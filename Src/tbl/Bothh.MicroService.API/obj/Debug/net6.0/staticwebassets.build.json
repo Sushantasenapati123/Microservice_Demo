@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z8ReL+8Ej3mAbTRm6Yk+khzLTF0EArQ7OgIubNEUpvk=",
+  "Source": "Bothh.MicroService.API",
+  "BasePath": "_content/Bothh.MicroService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

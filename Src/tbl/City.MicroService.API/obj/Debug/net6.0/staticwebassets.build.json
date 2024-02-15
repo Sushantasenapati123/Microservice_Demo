@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0Q5qhZbh5TXmz9jf2NEJfkDkB/2VB/bxE8NX1sVcWVY=",
+  "Source": "City.MicroService.API",
+  "BasePath": "_content/City.MicroService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

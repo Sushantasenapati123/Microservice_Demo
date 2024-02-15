@@ -1,0 +1,152 @@
+
+@{
+ViewData["Title"] = "Bothh";
+}
+<div class="row">
+		@Html.AntiForgeryToken()
+			@*Write code here*@
+</div><div>
+    <ul class="nav nav-tabs nav-fill" role="tablist">
+        <a class="nav-item nav-link active" asp-controller="tbl" asp-action="Bothh">Add</a>
+        <a class="nav-item nav-link" asp-controller="tbl" asp-action=ViewBothh>View</a>
+    </ul>
+</div>
+<br />
+<br />
+<br />
+<form id="form">
+
+	<div class="form-group row">
+			<label class="col-12 col-md-2 col-xl-2 mb-3 control-label" for="demo-text-input">Statename<span class="m-2">:</span></label>
+			<div class="col-12 col-md-6 col-xl-8 mb-3">
+				<input type="text" id="StateName" name="StateName" class="form-control">
+			</div>
+	</div>
+	<div class="form-group row">
+			<label class="col-12 col-md-2 col-xl-2 mb-3 control-label" for="demo-text-input">Distname<span class="m-2">:</span></label>
+			<div class="col-12 col-md-6 col-xl-8 mb-3">
+				<input type="text" id="DistName" name="DistName" class="form-control">
+			</div>
+	</div>
+	<div class="form-group">
+		<label class="col-12 col-md-2 col-xl-2 control-label" for="demo-text-input"></label>
+<br/>
+		<div class="col-12 col-md-8 col-xl-12">
+			<input type="button" value="Submit" id="btn_Submit" class="btn btn-primary" onclick="Save_Bothh()"/>
+		</div>
+	</div>
+<input id="hdnBothh" type="hidden" value="0" />
+</form>
+	
+	<script>
+$(document).ready(function () {
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = decodeURIComponent(value);
+            });
+            return vars;
+        }
+        var id = getUrlVars()["strid"];
+
+        if (id != undefined || id != null) {
+            Edit_Bothh(decryptData(id));
+         }
+    });
+
+        function decryptData(encryptedData) {
+            var decryptedBytes = CryptoJS.AES.decrypt(encryptedData, 'secret_key');
+            var decryptedString = decryptedBytes.toString(CryptoJS.enc.Utf8);
+            var decryptedObject = JSON.parse(decryptedString);
+            var originalData = decryptedObject.data;
+            var decryptedInteger = parseInt(originalData, 10);
+            return decryptedInteger;
+        }function Edit_Bothh(id) {
+        $.ajax({
+            type: "Get",
+            dataType: "json",
+            url: '@Url.Action("GetByID_Bothh", "tbl")',
+            data: { "Id": id },
+            success: function (Result) {
+                var data1 = JSON.parse(Result);
+   $("#hdnBothh").val(data1.DistId);
+             $('#StateName').val(data1.StateName);
+					$('#DistName').val(data1.DistName);
+					
+            },
+            error: function (Message) {
+                alert(Message);
+            }
+        });
+    }        $("#form").validate({
+            rules: {
+                StateName: {
+                    required: true
+                },
+                DistName: {
+                    required: true
+                },
+                            },
+            messages: {
+                StateName: {
+                    required: "Please enter StateName"
+                 },
+                DistName: {
+                    required: "Please enter DistName"
+                 },
+                
+           },
+            	
+            highlight: function (element) {	
+                $(element).removeClass("is-valid")		
+                $(element).parent().addClass('error')		
+                $(element).addClass("is-invalid")	
+            },	
+            unhighlight: function (element) {	
+                $(element).parent().removeClass('error')	
+                $(element).removeClass("is-invalid");	
+                $(element).addClass("is-valid")	
+            }	
+        });
+			function Save_Bothh() {
+			if ($("#form").valid()) {
+					
+					var Bothh ={ 
+			
+					 DistId:$('#hdnBothh').val(),
+StateName:$("#StateName").val(),
+					DistName:$("#DistName").val(),
+					
+				};
+			$.ajax({
+				type: "POST",
+				url: "/tbl/Bothh",
+			beforeSend: function (xhr) {
+					xhr.setRequestHeader("XSRF-TOKEN",
+						$('input:hidden[name="__RequestVerificationToken"]').val());
+				},
+			data:Bothh,
+			content: 'application/json;charset=utf-8',
+			dataType: "json",
+			success: function (result) {
+						Swal.fire({
+							icon: 'success',
+							title: result.responseText,
+							text: result.responseMessage,
+						}).then((result) => {
+							if (result.isConfirmed) {
+								location.href ="/tbl/ViewBothh";
+							}
+						})
+			},
+			error: function (result) {
+						Swal.fire({
+							icon: 'error',
+							title: result.responseText,
+							text: result.responseMessage,
+						});
+					}, 
+			});
+			}
+		}
+	</script>

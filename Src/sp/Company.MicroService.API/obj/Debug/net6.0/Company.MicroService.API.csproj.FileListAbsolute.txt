@@ -1,0 +1,88 @@
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.csproj.AssemblyReference.cache
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.AssemblyInfoInputs.cache
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.AssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.csproj.CoreCompileInputs.cache
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.MvcApplicationPartsAssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.MvcApplicationPartsAssemblyInfo.cache
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\appsettings.Development.json
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\appsettings.json
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.exe
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.deps.json
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.runtimeconfig.json
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.pdb
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Dapper.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\proj.Model.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\bin\Debug\net6.0\proj.Model.pdb
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.Company.MicroService.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Company.MicroService.API.props
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company.MicroService.API.props
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company.MicroService.API.props
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\scopedcss\bundle\Company.MicroService.API.styles.css
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.csproj.CopyComplete
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\refint\Company.MicroService.API.dll
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.pdb
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.genruntimeconfig.cache
+D:\TEst\Test Repo\New folder (32)\Src\sp\Company.MicroService.API\obj\Debug\net6.0\ref\Company.MicroService.API.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\appsettings.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.exe
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.deps.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Company.MicroService.API.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Dapper.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\proj.Model.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\bin\Debug\net6.0\proj.Model.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.Company.MicroService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Company.MicroService.API.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company.MicroService.API.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company.MicroService.API.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\scopedcss\bundle\Company.MicroService.API.styles.css
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\refint\Company.MicroService.API.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\Company.MicroService.API.genruntimeconfig.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Src\sp\Company.MicroService.API\obj\Debug\net6.0\ref\Company.MicroService.API.dll

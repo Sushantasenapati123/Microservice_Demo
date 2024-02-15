@@ -1,0 +1,108 @@
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.deps.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.runtimeconfig.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Ocelot.Json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.exe
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\appsettings.Development.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\appsettings.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.staticwebassets.runtime.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.exe
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.deps.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.runtimeconfig.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.pdb
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\FluentValidation.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\IPAddressRange.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Ocelot.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Model.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.pdb
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\bin\Debug\net6.0\proj.Model.pdb
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.csproj.AssemblyReference.cache
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.AssemblyInfoInputs.cache
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.AssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.csproj.CoreCompileInputs.cache
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.RazorAssemblyInfo.cache
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.RazorAssemblyInfo.cs
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.proj.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.proj.Web.props
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proj.Web.props
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proj.Web.props
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\scopedcss\bundle\proj.Web.styles.css
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\scopedcss\projectbundle\proj.Web.bundle.scp.css
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.csproj.CopyComplete
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\refint\proj.Web.dll
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.pdb
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.genruntimeconfig.cache
+D:\TEst\Test Repo\New folder (32)\Presentation\proj.Web\obj\Debug\net6.0\ref\proj.Web.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.deps.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Ocelot.Json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.exe
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.staticwebassets.runtime.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.exe
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.deps.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Web.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Ocelot.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Model.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Gateway.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\bin\Debug\net6.0\proj.Model.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.RazorAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.RazorAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.proj.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.proj.Web.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proj.Web.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proj.Web.props
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\scopedcss\bundle\proj.Web.styles.css
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\scopedcss\projectbundle\proj.Web.bundle.scp.css
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\refint\proj.Web.dll
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.pdb
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\proj.Web.genruntimeconfig.cache
+C:\Users\sushanta.senapati\Desktop\Microservice\Microservice-Demo\Presentation\proj.Web\obj\Debug\net6.0\ref\proj.Web.dll
